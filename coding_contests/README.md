@@ -2,5 +2,5 @@
 
 ### I enjoy the thrill of coding contests
 
-![](/coding contests/screenshot_1.png)
-![](/coding contests/screenshot_1.png)
+![](/coding_contests/screenshot_1.png)
+![](/coding_contests/screenshot_1.png)
