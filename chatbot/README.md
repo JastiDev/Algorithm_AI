@@ -1,5 +1,6 @@
-# MEAN_HandyForAll
+# Chatbot development
 
-Freelancer Job Site developed by MEAN stack. It's totally finished.
-![](/readme/chatbot_master.png)
-![](/readme/sales_bot.png)
+### chatbot.com provides good tools. I have certification on it.
+
+![](/chatbot/readme/chatbot_master.png)
+![](/chatbot/readme/sales_bot.png)
